@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "chalk": "^1.0.0",
-    "level": "^1.5.0",
+    "level": "~1.4.0",
     "readdirp": "^0.3.3",
     "s3-sync-aws": "^1.1.0",
     "cloudfront": "^0.3.3",
